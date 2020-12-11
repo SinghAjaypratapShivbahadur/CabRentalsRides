@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "776884248744",
+    "firebase_url": "https://cabrentals-bca3f-default-rtdb.firebaseio.com",
+    "project_id": "cabrentals-bca3f",
+    "storage_bucket": "cabrentals-bca3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776884248744:android:773a3f20082e11faa0a29d",
+        "android_client_info": {
+          "package_name": "com.example.cabrentals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776884248744-pbhos9v9ibatv30bgtlolvo0es4lvs7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDeO4xI8fyh6qRpI0DrmomSrT0EycL44Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776884248744-pbhos9v9ibatv30bgtlolvo0es4lvs7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776884248744:android:d5fa64c420aaf349a0a29d",
+        "android_client_info": {
+          "package_name": "com.example.cabrentalsrides"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776884248744-pbhos9v9ibatv30bgtlolvo0es4lvs7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDeO4xI8fyh6qRpI0DrmomSrT0EycL44Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776884248744-pbhos9v9ibatv30bgtlolvo0es4lvs7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

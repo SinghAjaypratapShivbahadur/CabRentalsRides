@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">CabRentalsRides</string>
+    <string name="headingsplash">CabRentals</string>
+    <string name="capsplash">For Renting Cars</string>
+    <string name="Captionrider">For Renting Cars</string>
+    <string name="signheaderrider">CabRentals</string>
+    0
+    <string name="phonesignrider">Sign In Using Phone Number</string>
+    <string name="googlesignrider">Sign In Using Google</string>
+    <string name="headingsplashlayoutreg">  CabRentals</string>
+    <string name="capsplashlayoutreg">For Renting Cars</string>
+    <string name="Firstname">First Name</string>
+    <string name="Lastname">Last Name</string>
+    <string name="mobIlenumber">Mobile Number</string>
+    <string name="Emailidlayoutreg">Email_Id</string>
+    <string name="Reglayoutcap">Register:</string>
+    <string name="regbtnlayout">Register</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+</resources>
