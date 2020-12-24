@@ -73,7 +73,7 @@ public class HomeFragment extends Fragment implements OnMapReadyCallback {
 
         return root;
     }
-//
+
 
     private void init() {
         locationRequest = new LocationRequest();
